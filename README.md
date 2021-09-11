@@ -1,6 +1,6 @@
 # SPM_tutorial
 
-An introduction to Swift Package Manager.
+An introduction to Swift Package Manager (https://www.raywenderlich.com/1993018-an-introduction-to-swift-package-manager).
 
 # How to use
 1. Clone the repo
